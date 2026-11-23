@@ -1,0 +1,1 @@
+javac Methodentraining.java && java Methodentraining 
